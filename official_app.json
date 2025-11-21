@@ -1,0 +1,6 @@
+{
+  "app_name": "PayFast",
+  "package_name": "com.payfast.app",
+  "icon_path": "official_icon.png",
+  "cert_fingerprint": "AA:BB:CC:DD"
+}
